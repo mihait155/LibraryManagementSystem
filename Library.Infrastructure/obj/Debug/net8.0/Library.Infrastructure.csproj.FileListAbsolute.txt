@@ -1,0 +1,17 @@
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\bin\Debug\net8.0\Library.Infrastructure.deps.json
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\bin\Debug\net8.0\Library.Infrastructure.dll
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\bin\Debug\net8.0\Library.Infrastructure.pdb
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\bin\Debug\net8.0\Library.Core.dll
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\bin\Debug\net8.0\Library.Core.pdb
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.AssemblyInfo.cs
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library..FAF1E3BF.Up2Date
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.dll
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\refint\Library.Infrastructure.dll
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.pdb
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\ref\Library.Infrastructure.dll
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\bin\Debug\net8.0\Library.Infrastructure.runtimeconfig.json
+D:\Programming\C#\LibraryManagementSystem\Library.Infrastructure\obj\Debug\net8.0\Library.Infrastructure.genruntimeconfig.cache

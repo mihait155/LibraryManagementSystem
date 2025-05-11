@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\LibraryManagementSystem\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{842B2E58-B650-4894-8C44-FE2CD7ACAA73}|LibraryManagementSystem.ConsoleApp.csproj|d:\\programming\\c#\\librarymanagementsystem\\librarymanagementsystem\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B2E58-B650-4894-8C44-FE2CD7ACAA73}|LibraryManagementSystem.ConsoleApp.csproj|solutionrelative:service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{842B2E58-B650-4894-8C44-FE2CD7ACAA73}|LibraryManagementSystem.ConsoleApp.csproj|d:\\programming\\c#\\librarymanagementsystem\\librarymanagementsystem\\ui\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{842B2E58-B650-4894-8C44-FE2CD7ACAA73}|LibraryManagementSystem.ConsoleApp.csproj|solutionrelative:ui\\consolemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D114C13F-B11F-4CD7-B1B2-60DBEE80054C}|..\\Library.Core\\Library.Core.csproj|d:\\programming\\c#\\librarymanagementsystem\\library.core\\entities\\bookloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D114C13F-B11F-4CD7-B1B2-60DBEE80054C}|..\\Library.Core\\Library.Core.csproj|d:\\programming\\c#\\librarymanagementsystem\\library.core\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9358ECEC-DFC0-4CA0-9DE6-19D9EBB943CD}|..\\Library.Infrastructure\\Library.Infrastructure.csproj|d:\\programming\\c#\\librarymanagementsystem\\library.infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9358ECEC-DFC0-4CA0-9DE6-19D9EBB943CD}|..\\Library.Infrastructure\\Library.Infrastructure.csproj|d:\\programming\\c#\\librarymanagementsystem\\library.infrastructure\\repositories\\loanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Core\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "..\\Library.Core\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Core\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "..\\Library.Core\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:55:17.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoanRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Infrastructure\\Repositories\\LoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\Library.Infrastructure\\Repositories\\LoanRepository.cs",
+              "ToolTip": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Infrastructure\\Repositories\\LoanRepository.cs",
+              "RelativeToolTip": "..\\Library.Infrastructure\\Repositories\\LoanRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:51:23.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\Library.Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "..\\Library.Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:44:39.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookLoan.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Core\\Entities\\BookLoan.cs",
+              "RelativeDocumentMoniker": "..\\Library.Core\\Entities\\BookLoan.cs",
+              "ToolTip": "D:\\Programming\\C#\\LibraryManagementSystem\\Library.Core\\Entities\\BookLoan.cs",
+              "RelativeToolTip": "..\\Library.Core\\Entities\\BookLoan.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwB0AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:31:55.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleMenu.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\LibraryManagementSystem\\LibraryManagementSystem\\UI\\ConsoleMenu.cs",
+              "RelativeDocumentMoniker": "UI\\ConsoleMenu.cs",
+              "ToolTip": "D:\\Programming\\C#\\LibraryManagementSystem\\LibraryManagementSystem\\UI\\ConsoleMenu.cs",
+              "RelativeToolTip": "UI\\ConsoleMenu.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAIwJcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:31:37.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\LibraryManagementSystem\\LibraryManagementSystem\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Service\\Service.cs",
+              "ToolTip": "D:\\Programming\\C#\\LibraryManagementSystem\\LibraryManagementSystem\\Service\\Service.cs",
+              "RelativeToolTip": "Service\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOYAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:31:27.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
